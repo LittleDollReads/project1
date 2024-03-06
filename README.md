@@ -1,2 +1,4 @@
 # project1
-first github project. learning the site.
+first GitHub project. learning the site.
+## Introduction
+1. this is a simple project to test GitHub
